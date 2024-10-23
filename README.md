@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mberthault
-- 👀 I’m interested in monitoring solutions, like Zabbix
-- 🌱 I’m currently learning Zabbix
-- 💞️ I’m looking to collaborate on Zabbix
+- 👀 I’m interested in YES
+- 🌱 I’m currently learning YES
+- 💞️ I’m looking to collaborate on YES
 - 📫 How to reach me: you are at the right place
 
 <!---
