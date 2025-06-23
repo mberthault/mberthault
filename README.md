@@ -2,7 +2,7 @@
 - 👀 I’m interested in Linux
 - 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on markdown documentation for any linux project
-- 📫 How to reach me: you are at the right place
+- 📫 How to reach me: here
 
 <!---
 mberthault/mberthault is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
