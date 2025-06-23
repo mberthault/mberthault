@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mberthault
-- 👀 I’m interested in YES
-- 🌱 I’m currently learning YES
-- 💞️ I’m looking to collaborate on YES
+- 👀 I’m interested in Linux
+- 🌱 I’m currently learning Devops
+- 💞️ I’m looking to collaborate on markdown documentation for any linux project
 - 📫 How to reach me: you are at the right place
 
 <!---
